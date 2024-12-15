@@ -1,1 +1,2 @@
-create a dotnet project: dotnet new console -n AppName
+create a dotnet project: 
+    dotnet new console -n AppName
