@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\bin\Debug\net8.0\Singleton-App-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\bin\Debug\net8.0\Singleton-App-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\bin\Debug\net8.0\Singleton-App-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\bin\Debug\net8.0\Singleton-App-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\bin\Debug\net8.0\Singleton-App-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\refint\Singleton-App-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\Singleton-App-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\obj\Debug\net8.0\ref\Singleton-App-C#.dll
