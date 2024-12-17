@@ -7,15 +7,13 @@ namespace DesignPatterns
     // Simple Singleton implementation 
     public class Singleton
     {
-        public int attr1;
-        public string attr2;
+        // you can add attributes here
 
         private static Singleton instance; // static object, so it will create only one time 
 
         private Singleton() 
         {
-            attr1 = 0;
-            attr2 = "";
+            // you can initilize attributes here
         }
 
         public static Singleton GetInstance() { // static get method (it will create the object first time)
@@ -59,6 +57,8 @@ namespace DesignPatterns
 
     public class SingletonA : ISingleton
     {
+        // you can add attributes here
+
         public static SingletonA Instance { get; private set; } = new SingletonA();
 
         private SingletonA()
@@ -74,6 +74,8 @@ namespace DesignPatterns
 
     public class SingletonB : ISingleton
     {
+        // you can add attributes here
+        
         public static SingletonB Instance { get; private set; } = new SingletonB();
 
         private SingletonB()
