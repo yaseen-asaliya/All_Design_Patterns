@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\bin\Debug\net8.0\Factory-Method-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\bin\Debug\net8.0\Factory-Method-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\bin\Debug\net8.0\Factory-Method-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\bin\Debug\net8.0\Factory-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\bin\Debug\net8.0\Factory-Method-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\refint\Factory-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\Factory-Method-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Factory-Method-Design-Pattern\Factory-Method-In-C#\obj\Debug\net8.0\ref\Factory-Method-In-C#.dll
