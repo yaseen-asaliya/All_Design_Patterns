@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\bin\Debug\net8.0\Template-Method-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\bin\Debug\net8.0\Template-Method-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\bin\Debug\net8.0\Template-Method-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\bin\Debug\net8.0\Template-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\bin\Debug\net8.0\Template-Method-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\refint\Template-Method-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\Template-Method-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Template-Method-Design-Pattern\Template-Method-In-C#\obj\Debug\net8.0\ref\Template-Method-In-C#.dll
