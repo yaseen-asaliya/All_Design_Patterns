@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\bin\Debug\net8.0\Facad-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\bin\Debug\net8.0\Facad-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\bin\Debug\net8.0\Facad-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\bin\Debug\net8.0\Facad-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\bin\Debug\net8.0\Facad-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\refint\Facad-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\Facad-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\obj\Debug\net8.0\ref\Facad-In-C#.dll
