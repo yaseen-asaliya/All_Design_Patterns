@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\bin\Debug\net8.0\Adapter-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\bin\Debug\net8.0\Adapter-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\bin\Debug\net8.0\Adapter-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\bin\Debug\net8.0\Adapter-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\bin\Debug\net8.0\Adapter-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\refint\Adapter-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\Adapter-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Adapter-Design-Pattern\Adapter-In-C#\obj\Debug\net8.0\ref\Adapter-In-C#.dll
