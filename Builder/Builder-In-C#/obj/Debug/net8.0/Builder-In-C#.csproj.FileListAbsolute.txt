@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\bin\Debug\net8.0\Builder-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\bin\Debug\net8.0\Builder-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\bin\Debug\net8.0\Builder-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\bin\Debug\net8.0\Builder-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\bin\Debug\net8.0\Builder-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\refint\Builder-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\Builder-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Builder\Builder-In-C#\obj\Debug\net8.0\ref\Builder-In-C#.dll
