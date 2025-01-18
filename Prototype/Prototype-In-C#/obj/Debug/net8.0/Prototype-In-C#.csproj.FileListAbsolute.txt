@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\bin\Debug\net8.0\Prototype-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\bin\Debug\net8.0\Prototype-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\bin\Debug\net8.0\Prototype-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\bin\Debug\net8.0\Prototype-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\bin\Debug\net8.0\Prototype-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\refint\Prototype-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\Prototype-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Prototype\Prototype-In-C#\obj\Debug\net8.0\ref\Prototype-In-C#.dll
