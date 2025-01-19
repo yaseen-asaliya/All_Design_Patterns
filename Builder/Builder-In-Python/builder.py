@@ -1,79 +1,81 @@
-from abc import ABC, abstractmethod
-
-# It provides a flexible way to construct complex objects step by step
-
 class Car:
     """Final Goal (Product)"""
     def __init__(self):
-        self.engine = None
-        self.wheels = None
-        self.color = None
+        self.Engine = None
+        self.Wheels = None
+        self.Color = None
+        self.GPS = None
+        self.Sunroof = None
 
     def __str__(self):
-        return f"Car [Engine: {self.engine}, Wheels: {self.wheels}, Color: {self.color}]"
+        return (f"Car [Engine: {self.Engine}, Wheels: {self.Wheels}, "
+                f"Color: {self.Color}, GPS: {self.GPS}, Sunroof: {self.Sunroof}]")
 
-class ICarBuilder(ABC):
-    """Builder Interface"""
-    @abstractmethod
+
+class ICarBuilder:
+    """Builder interface"""
     def set_engine(self, engine):
         pass
 
-    @abstractmethod
     def set_wheels(self, wheels):
         pass
 
-    @abstractmethod
     def set_color(self, color):
         pass
 
-    @abstractmethod
     def get_car(self):
         pass
 
 
 class CarBuilder(ICarBuilder):
-    """Concrete Builder"""
+    """Concrete implementation of the builder"""
     def __init__(self):
         self._car = Car()
 
     def set_engine(self, engine):
-        self._car.engine = engine
+        self._car.Engine = engine
 
     def set_wheels(self, wheels):
-        self._car.wheels = wheels
+        self._car.Wheels = wheels
 
     def set_color(self, color):
-        self._car.color = color
+        self._car.Color = color
 
     def get_car(self):
         return self._car
 
 
 class CarDirector:
-    """Director (Who order/excute the steps to produce the final object)"""
+    """The Director"""
     def __init__(self, builder):
         self._builder = builder
 
-    def build_sports_car(self):
-        self._builder.set_engine("V8")
-        self._builder.set_wheels(4)
-        self._builder.set_color("Red")
+    def build_car(self, car, *attributes):
+        """
+        Dynamically build a car by assigning attributes.
+        Attributes are passed as tuples: (attribute_name, value).
+        """
+        for attribute, value in attributes:
+            if hasattr(car, attribute):
+                # Automatically convert types where needed
+                field_type = type(getattr(car, attribute))
+                converted_value = field_type(value) if field_type != type(None) else value
+                setattr(car, attribute, converted_value)
+            else:
+                print(f"Unknown or read-only attribute: {attribute}")
 
-    def build_suv(self):
-        self._builder.set_engine("V6")
-        self._builder.set_wheels(4)
-        self._builder.set_color("Black")
 
+# Main function
 if __name__ == "__main__":
     builder = CarBuilder()
     director = CarDirector(builder)
 
-    # Build a Sports Car
-    director.build_sports_car()
-    sports_car = builder.get_car()
-    print(sports_car)
-
-    # Build an SUV
-    director.build_suv()
-    suv = builder.get_car()
-    print(suv)
+    # Build a car dynamically with custom attributes
+    custom_car = Car()
+    director.build_car(custom_car,
+                       ("Engine", "V12"),
+                       ("Wheels", "6"),
+                       ("Color", "Blue"),
+                       ("GPS", "True"),
+                       ("Sunroof", "True"))
+    print(custom_car)

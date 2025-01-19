@@ -1,81 +1,47 @@
-class Car:
-    """Final Goal (Product)"""
-    def __init__(self):
-        self.Engine = None
-        self.Wheels = None
-        self.Color = None
-        self.GPS = None
-        self.Sunroof = None
-
+import copy
+class Prototype:
+    """
+    Used to create new objects by cloning an existing object (the prototype) 
+    rather than instantiating new objects from scratch.
+    This is useful when object creation is expensive or complex.
+    """
+    def clone(self):
+        """Shallow copy method"""
+        pass
+    def deep_clone(self):
+        """Deep copy method"""
+        pass
+class Engine:
+    def __init__(self, engine_type):
+        self.type = engine_type
     def __str__(self):
-        return (f"Car [Engine: {self.Engine}, Wheels: {self.Wheels}, "
-                f"Color: {self.Color}, GPS: {self.GPS}, Sunroof: {self.Sunroof}]")
-
-
-class ICarBuilder:
-    """Builder interface"""
-    def set_engine(self, engine):
-        pass
-
-    def set_wheels(self, wheels):
-        pass
-
-    def set_color(self, color):
-        pass
-
-    def get_car(self):
-        pass
-
-
-class CarBuilder(ICarBuilder):
-    """Concrete implementation of the builder"""
-    def __init__(self):
-        self._car = Car()
-
-    def set_engine(self, engine):
-        self._car.Engine = engine
-
-    def set_wheels(self, wheels):
-        self._car.Wheels = wheels
-
-    def set_color(self, color):
-        self._car.Color = color
-
-    def get_car(self):
-        return self._car
-
-
-class CarDirector:
-    """The Director"""
-    def __init__(self, builder):
-        self._builder = builder
-
-    def build_car(self, car, *attributes):
-        """
-        Dynamically build a car by assigning attributes.
-        Attributes are passed as tuples: (attribute_name, value).
-        """
-        for attribute, value in attributes:
-            if hasattr(car, attribute):
-                # Automatically convert types where needed
-                field_type = type(getattr(car, attribute))
-                converted_value = field_type(value) if field_type != type(None) else value
-                setattr(car, attribute, converted_value)
-            else:
-                print(f"Unknown or read-only attribute: {attribute}")
-
-
-# Main function
+        return self.type
+class Car(Prototype):
+    def __init__(self, make, model, year, engine):
+        self.make = make
+        self.model = model
+        self.year = year
+        self.engine = engine
+    def clone(self):
+        """Shallow copy method"""
+        return copy.copy(self)  # Creates a shallow copy (nested objects are shared)
+    def deep_clone(self):
+        """Deep copy method"""
+        return copy.deepcopy(self)  # Creates a deep copy (nested objects are also copied)
+    def __str__(self):
+        return f"{self.year} {self.make} {self.model} with {self.engine} engine"
+# Demonstration
 if __name__ == "__main__":
-    builder = CarBuilder()
-    director = CarDirector(builder)
-
-    # Build a car dynamically with custom attributes
-    custom_car = Car()
-    director.build_car(custom_car,
-                       ("Engine", "V12"),
-                       ("Wheels", "6"),
-                       ("Color", "Blue"),
-                       ("GPS", "True"),
-                       ("Sunroof", "True"))
-    print(custom_car)
+    # Original object
+    original_car = Car("Toyota", "Corolla", 2022, Engine("Hybrid"))
+    print("Original Car:", original_car)
+    # Perform shallow copy
+    shallow_car = original_car.clone()
+    shallow_car.engine.type = "Electric"  # Modifying the nested object
+    print("Shallow Copy Car:", shallow_car)
+    print("Original Car after shallow copy modification:", original_car)
+    # Perform deep copy
+    deep_car = original_car.deep_clone()
+    deep_car.engine.type = "Diesel"  # Modifying the nested object
+    print("Deep Copy Car:", deep_car)
+    print("Original Car after deep copy modification:", original_car)
