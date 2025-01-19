@@ -1,26 +1,27 @@
 ﻿using System;
 
-namespace BuilderExample {
-
-    // It provides a flexible way to construct complex objects step by step
-
-    class Demo {
-
+namespace BuilderExample
+{
+    class Demo
+    {
         // Final Goal (Product)
         public class Car
         {
             public string Engine { get; set; }
             public int Wheels { get; set; }
             public string Color { get; set; }
+            public bool GPS { get; set; }
+            public bool Sunroof { get; set; }
 
             public override string ToString()
             {
-                return $"Car [Engine: {Engine}, Wheels: {Wheels}, Color: {Color}]";
+                return $"Car [Engine: {Engine}, Wheels: {Wheels}, Color: {Color}, GPS: {GPS}, Sunroof: {Sunroof}]";
             }
         }
-        
-        // Builder interface 
-        public interface ICarBuilder {
+
+        // Builder interface
+        public interface ICarBuilder
+        {
             void SetEngine(string engine);
             void SetWheels(int wheels);
             void SetColor(string color);
@@ -28,67 +29,78 @@ namespace BuilderExample {
         }
 
         // Builder Concrete class
-        public class CarBuilder : ICarBuilder {
+        public class CarBuilder : ICarBuilder
+        {
             private Car _car = new Car();
 
-            public void SetEngine(string engine) {
+            public void SetEngine(string engine)
+            {
                 _car.Engine = engine;
             }
 
-            public void SetWheels(int wheels) {
+            public void SetWheels(int wheels)
+            {
                 _car.Wheels = wheels;
             }
-            public void SetColor(string color) {
+
+            public void SetColor(string color)
+            {
                 _car.Color = color;
             }
 
-            public Car GetCar() {
+            public Car GetCar()
+            {
                 return _car;
             }
         }
 
-        // The Director (Who order/excute the steps to produce the final object)
+        // The Director
         public class CarDirector
         {
             private readonly ICarBuilder _builder;
 
-            public CarDirector(ICarBuilder builder) {
+            public CarDirector(ICarBuilder builder)
+            {
                 _builder = builder;
             }
 
-            public void BuildSportsCar(){
-                _builder.SetEngine("V8");
-                _builder.SetWheels(4);
-                _builder.SetColor("Red");
-            }
-
-            public void BuildSUV()
+            // Dynamically building a car
+            public void BuildCar(Car car, params (string Attribute, string Value)[] attributes)
             {
-                _builder.SetEngine("V6");
-                _builder.SetWheels(4);
-                _builder.SetColor("Black");
+                var carType = car.GetType();
+
+                foreach (var (attribute, value) in attributes)
+                {
+                    var property = carType.GetProperty(attribute);
+
+                    if (property != null && property.CanWrite)
+                    {
+                        var convertedValue = Convert.ChangeType(value, property.PropertyType);
+                        property.SetValue(car, convertedValue);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Unknown or read-only attribute: {attribute}");
+                    }
+                }
             }
-
-            // Add your custome implmentation here
-
         }
 
-
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
             ICarBuilder builder = new CarBuilder();
             CarDirector director = new CarDirector(builder);
 
-            // Build a Sports Car
-            director.BuildSportsCar();
-            Car sportsCar = builder.GetCar();
-            Console.WriteLine(sportsCar);
-
-            // Build an SUV
-            director.BuildSUV();
-            Car suv = builder.GetCar();
-            Console.WriteLine(suv);
-
+            // Build a car dynamically with custom attributes
+            var customCar = new Car();
+            director.BuildCar(customCar,
+                ("Engine", "V12"),
+                ("Wheels", "6"),
+                ("Color", "Blue"),
+                ("GPS", "True"),
+                ("Sunroof", "True")
+            );
+            Console.WriteLine(customCar);
         }
     }
-
 }
