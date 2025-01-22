@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter-Design-Pattern\\Adapter-In-C#\\Adapter-In-C#.csproj": {}
+    "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter\\Adapter-In-C#\\Adapter-In-C#.csproj": {}
   },
   "projects": {
-    "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter-Design-Pattern\\Adapter-In-C#\\Adapter-In-C#.csproj": {
+    "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter\\Adapter-In-C#\\Adapter-In-C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter-Design-Pattern\\Adapter-In-C#\\Adapter-In-C#.csproj",
+        "projectUniqueName": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter\\Adapter-In-C#\\Adapter-In-C#.csproj",
         "projectName": "Adapter-In-C#",
-        "projectPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter-Design-Pattern\\Adapter-In-C#\\Adapter-In-C#.csproj",
+        "projectPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter\\Adapter-In-C#\\Adapter-In-C#.csproj",
         "packagesPath": "C:\\Users\\yasee\\.nuget\\packages\\",
-        "outputPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter-Design-Pattern\\Adapter-In-C#\\obj\\",
+        "outputPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Adapter\\Adapter-In-C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasee\\AppData\\Roaming\\NuGet\\NuGet.Config",

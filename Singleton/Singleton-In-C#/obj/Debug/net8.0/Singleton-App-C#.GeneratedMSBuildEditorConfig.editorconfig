@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Singleton_App_C_
-build_property.ProjectDir = D:\VS-Code-Projects\All_Design_Patterns\Singleton-Design-Pattern\Singleton-App-C#\
+build_property.ProjectDir = D:\VS-Code-Projects\All_Design_Patterns\Singleton\Singleton-In-C#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

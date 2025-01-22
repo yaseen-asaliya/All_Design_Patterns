@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\bin\Debug\net8.0\Bridge-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\bin\Debug\net8.0\Bridge-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\bin\Debug\net8.0\Bridge-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\bin\Debug\net8.0\Bridge-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\bin\Debug\net8.0\Bridge-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\refint\Bridge-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\Bridge-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Bridge\Bridge-In-C#\obj\Debug\net8.0\ref\Bridge-In-C#.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facad-Design-Pattern\\Facad-In-C#\\Facad-In-C#.csproj",
+      "projectUniqueName": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facade\\Facade-In-C#\\Facad-In-C#.csproj",
       "projectName": "Facad-In-C#",
-      "projectPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facad-Design-Pattern\\Facad-In-C#\\Facad-In-C#.csproj",
+      "projectPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facade\\Facade-In-C#\\Facad-In-C#.csproj",
       "packagesPath": "C:\\Users\\yasee\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facad-Design-Pattern\\Facad-In-C#\\obj\\",
+      "outputPath": "D:\\VS-Code-Projects\\All_Design_Patterns\\Facade\\Facade-In-C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasee\\AppData\\Roaming\\NuGet\\NuGet.Config",

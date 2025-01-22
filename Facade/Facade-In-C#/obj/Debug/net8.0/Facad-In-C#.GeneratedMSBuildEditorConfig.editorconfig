@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Facad_In_C_
-build_property.ProjectDir = D:\VS-Code-Projects\All_Design_Patterns\Facad-Design-Pattern\Facad-In-C#\
+build_property.ProjectDir = D:\VS-Code-Projects\All_Design_Patterns\Facade\Facade-In-C#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
