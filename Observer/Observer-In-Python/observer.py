@@ -24,7 +24,7 @@ class Subject:
     def _notify_observers(self):
         """Notify all attached observers about the state change."""
         for observer in self._observers:
-            observer(self._state)
+            observer(self._state) # this will call the observer_a and observer_b and pass them the state 
 
 
 # Observer functions
