@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\bin\Debug\net8.0\Observer-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\bin\Debug\net8.0\Observer-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\bin\Debug\net8.0\Observer-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\bin\Debug\net8.0\Observer-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\bin\Debug\net8.0\Observer-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\refint\Observer-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\Observer-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Observer\Observer-In-C#\obj\Debug\net8.0\ref\Observer-In-C#.dll
