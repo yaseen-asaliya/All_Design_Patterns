@@ -18,7 +18,7 @@ namespace ObserverExample {
             }
         }
 
-        protected virtual void OnStateChanged(int state)
+        protected virtual void OnStateChanged(int state) // When a method is marked as virtual, it allows a subclass to provide a specific implementation of that method, while still retaining the ability to call the base class's implementation if needed.
         {
             StateChanged?.Invoke(state); // Notify all subscribers
         }
