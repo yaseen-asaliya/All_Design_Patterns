@@ -1,102 +1,81 @@
-﻿using System;
-
-/*
-The Bridge Design Pattern is a structural pattern that decouples an abstraction from its implementation so that the two can vary independently.
-It is particularly useful when you have a class that could be extended in multiple ways but you want to avoid a combinatorial explosion of subclasses.
+﻿/*
+The Bridge Design Pattern is a structural pattern that decopule (Separate) the abstraction from the implementation so that the two can vary independently.
 */
 
-namespace BridgeExample {
-    // The Implementor
-    public interface IDevice // Normal abstraction with TV and Radio 
-    {
-        void TurnOn();
-        void TurnOff();
-        void SetVolume(int percent);
-    }
+using System;
 
-    // Concrete Implementor A
-    public class TV : IDevice
+namespace BridgeExample
+{
+    // Top-level abstraction
+    public abstract class Vehicle
     {
-        // Change the implementation based on your need
-        public void TurnOn() => Console.WriteLine("TV is now ON");
-        public void TurnOff() => Console.WriteLine("TV is now OFF");
-        public void SetVolume(int percent) => Console.WriteLine($"TV volume set to {percent}%");
-    }
+        protected Make make;
 
-    // Concrete Implementor B
-    public class Radio : IDevice
-    {
-        // Change the implementation based on your need
-        public void TurnOn() => Console.WriteLine("Radio is now ON");
-        public void TurnOff() => Console.WriteLine("Radio is now OFF");
-        public void SetVolume(int percent) => Console.WriteLine($"Radio volume set to {percent}%");
-    }
-
-    // The Abstraction
-    public abstract class RemoteControl
-    {
-        protected IDevice device;
-
-        public RemoteControl(IDevice device)
+        public Vehicle(Make make)
         {
-            this.device = device;
+            this.make = make;
         }
 
-        public void TurnOn() => device.TurnOn();
-        public void TurnOff() => device.TurnOff();
-    }
-
-    // Refined Abstraction
-    public class AdvancedRemoteControl : RemoteControl // Re-structure the abstraction (RemoteControl)
-    {
-        // Here you can modify the abstraction in a new way and taking old implmentation 
-
-        // 1. Taking old implmentation
-        public AdvancedRemoteControl(IDevice device) : base(device) { }
-
-        // 2. Override (refined) current implmentation
-        public void SetVolume(int percent)
+        public void Start()
         {
-            if (percent < 0 || percent > 100)
-            {
-                Console.WriteLine("Volume out of range. Setting to default 50%.");
-                percent = 50;
-            }
-            Console.WriteLine($"Setting volume to {percent}% via AdvancedRemoteControl.");
-            device.SetVolume(percent);
+            make.PerformRitual();
+            make.StartCar();
         }
 
-        // 3. Add new implmentation
-        public void Mute()
+        public abstract bool AllowedToDrive(string person);
+    }
+
+    public abstract class Make
+    {
+        public abstract void PerformRitual();
+        public abstract void StartCar();
+    }
+
+    /// Implementation
+    public class BMW : Make
+    {
+        public override void PerformRitual() => Console.WriteLine("Hit the car");
+
+        public override void StartCar()
         {
-            Console.WriteLine("Muting the device.");
-            device.SetVolume(0);
+            Console.WriteLine("Fix the wiring");
+            Console.WriteLine("Lube the engine");
+            Console.WriteLine("Put the key in");
+            Console.WriteLine("Turn the key");
         }
     }
 
-    // Client Code
+    public class Volvo : Make
+    {
+        public override void PerformRitual() => Console.WriteLine("Grateful for buying a Volvo");
+
+        public override void StartCar() => Console.WriteLine("Press button");
+    }
+
+    // Lower-level abstraction
+    public class Car : Vehicle
+    {
+        public Car(Make make) : base(make) { }
+        public override bool AllowedToDrive(string person) => person == "has license";
+    }
+
+    public class Truck : Vehicle
+    {
+        public Truck(Make make) : base(make) { }
+        public override bool AllowedToDrive(string person) => person == "has special truck license";
+    }
+
     class Program
     {
         static void Main()
         {
-            // Using TV with an advanced remote
-            IDevice tv = new TV();
-            AdvancedRemoteControl advancedRemoteForTV = new AdvancedRemoteControl(tv);
-            advancedRemoteForTV.TurnOn();
-            advancedRemoteForTV.SetVolume(150);
-            advancedRemoteForTV.Mute();
-            advancedRemoteForTV.TurnOff();
+            Vehicle myCar = new Car(new Volvo());
+            myCar.Start();
+            Console.WriteLine($"Allowed to drive: {myCar.AllowedToDrive("has license")}");
 
-            Console.WriteLine();
-
-            // Using Radio with an advanced remote
-            IDevice radio = new Radio();
-            AdvancedRemoteControl advancedRemoteForRadio = new AdvancedRemoteControl(radio);
-            advancedRemoteForRadio.TurnOn();
-            advancedRemoteForRadio.SetVolume(30); 
-            advancedRemoteForRadio.Mute();
-            advancedRemoteForRadio.TurnOff();
+            Vehicle myTruck = new Truck(new BMW());
+            myTruck.Start();
+            Console.WriteLine($"Allowed to drive: {myTruck.AllowedToDrive("no license")}");
         }
     }
-
 }
