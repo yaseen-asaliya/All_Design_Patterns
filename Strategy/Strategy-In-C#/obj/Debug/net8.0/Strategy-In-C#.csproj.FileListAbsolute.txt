@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\bin\Debug\net8.0\Strategy-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\bin\Debug\net8.0\Strategy-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\bin\Debug\net8.0\Strategy-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\bin\Debug\net8.0\Strategy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\bin\Debug\net8.0\Strategy-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\refint\Strategy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\Strategy-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Strategy\Strategy-In-C#\obj\Debug\net8.0\ref\Strategy-In-C#.dll
