@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\bin\Debug\net8.0\Proxy-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\bin\Debug\net8.0\Proxy-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\bin\Debug\net8.0\Proxy-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\bin\Debug\net8.0\Proxy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\bin\Debug\net8.0\Proxy-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\refint\Proxy-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\Proxy-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Proxy\Proxy-In-C#\obj\Debug\net8.0\ref\Proxy-In-C#.dll
