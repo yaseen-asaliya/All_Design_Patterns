@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\bin\Debug\net8.0\Composite-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\bin\Debug\net8.0\Composite-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\bin\Debug\net8.0\Composite-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\bin\Debug\net8.0\Composite-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\bin\Debug\net8.0\Composite-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\refint\Composite-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\Composite-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Composite\Composite-In-C#\obj\Debug\net8.0\ref\Composite-In-C#.dll
