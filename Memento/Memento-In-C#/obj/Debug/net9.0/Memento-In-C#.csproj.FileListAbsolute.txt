@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\bin\Debug\net9.0\Memento-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\bin\Debug\net9.0\Memento-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\bin\Debug\net9.0\Memento-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\bin\Debug\net9.0\Memento-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\bin\Debug\net9.0\Memento-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\refint\Memento-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\Memento-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Memento\Memento-In-C#\obj\Debug\net9.0\ref\Memento-In-C#.dll
