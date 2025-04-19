@@ -58,5 +58,7 @@ db.sqlite3
 *.sqlite3
 *.bak
 
+*/obj/*
+
 # celerybeat-schedule file
 celerybeat-schedule
