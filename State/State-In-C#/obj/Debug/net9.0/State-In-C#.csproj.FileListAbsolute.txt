@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\bin\Debug\net9.0\State-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\bin\Debug\net9.0\State-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\bin\Debug\net9.0\State-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\bin\Debug\net9.0\State-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\bin\Debug\net9.0\State-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\refint\State-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\State-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\State\State-In-C#\obj\Debug\net9.0\ref\State-In-C#.dll
