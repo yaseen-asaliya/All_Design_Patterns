@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\bin\Debug\net9.0\Mediator-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\bin\Debug\net9.0\Mediator-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\bin\Debug\net9.0\Mediator-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\bin\Debug\net9.0\Mediator-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\bin\Debug\net9.0\Mediator-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\refint\Mediator-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\Mediator-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Mediator\Mediator-In-C#\obj\Debug\net9.0\ref\Mediator-In-C#.dll
