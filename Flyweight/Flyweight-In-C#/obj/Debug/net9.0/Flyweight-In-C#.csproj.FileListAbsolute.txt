@@ -1,0 +1,15 @@
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\bin\Debug\net9.0\Flyweight-In-C#.exe
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\bin\Debug\net9.0\Flyweight-In-C#.deps.json
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\bin\Debug\net9.0\Flyweight-In-C#.runtimeconfig.json
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\bin\Debug\net9.0\Flyweight-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\bin\Debug\net9.0\Flyweight-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.AssemblyInfoInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.AssemblyInfo.cs
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.csproj.CoreCompileInputs.cache
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.sourcelink.json
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\refint\Flyweight-In-C#.dll
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.pdb
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\Flyweight-In-C#.genruntimeconfig.cache
+D:\VS-Code-Projects\All_Design_Patterns\Flyweight\Flyweight-In-C#\obj\Debug\net9.0\ref\Flyweight-In-C#.dll
